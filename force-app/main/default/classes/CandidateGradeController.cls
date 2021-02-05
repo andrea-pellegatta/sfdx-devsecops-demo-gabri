@@ -1,5 +1,6 @@
 public with sharing class CandidateGradeController {
-    public CandidateGradeController() {   
+    public CandidateGradeController() {  
+        aaaaa
     }
     
     @AuraEnabled
